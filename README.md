@@ -19,7 +19,7 @@
 - Beginner contributor to open-source projects
 - Exploring Pandas & NumPy repositories
 
----88
+---
 
 ### Connect with me
 - LinkedIn: https://www.linkedin.com/in/ansika-yadav-9b1475382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
