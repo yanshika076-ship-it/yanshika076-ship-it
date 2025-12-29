@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Ansika 👋
 
-<!--
-**yanshika076-ship-it/yanshika076-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Hons. Data Science student at Chandigarh University  
+   Python |C  | Pandas | NumPy  
+   Currently learning Data Science, open source 
+   Interested in data analysis and real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Skills
+- Python ,C
+- Pandas, NumPy
+- Git & GitHub
+- Data Science
+
+---
+
+### 🤝 Open Source
+- Beginner contributor to open-source projects
+- Exploring Pandas & NumPy repositories
+
+---88
+
+### Connect with me
+- LinkedIn: https://www.linkedin.com/in/ansika-yadav-9b1475382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
